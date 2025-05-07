@@ -16,7 +16,7 @@ BTN_WIDTH = 20
 BTN_HEIGHT = 2
 
 EXCEL_FILE = 'animal_data.xlsx'
-ADMIN_USER = 'pinil'
+ADMIN_USER = 'admin'
 ADMIN_PASS_HASH = hashlib.sha256('1234'.encode()).hexdigest()
 
 # ----------------------------------- UTIL FUNCTIONS ----------------------------------
